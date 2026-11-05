@@ -10,3 +10,5 @@
 
 # HOW TO PLAY?
 - Play at itch.io: (url)
+
+Oh yeah. A VIDEO: https://www.youtube.com/watch?v=FODfS5M2RNI&t=24s
