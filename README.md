@@ -9,6 +9,6 @@
 5. enemy LAYS on the ground after death.
 
 # HOW TO PLAY?
-- Play at itch.io: (url)
+- Play at itch.io: https://guru-or-goru.itch.io/unarmed-gladiator
 
 Oh yeah. A VIDEO: https://www.youtube.com/watch?v=FODfS5M2RNI&t=24s
