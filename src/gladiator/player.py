@@ -238,3 +238,4 @@ class Player(pygame.sprite.Sprite):
             (0, 255, 0),
             (hud_x, hud_y, int(bar_width * health_ratio), bar_height),
         )
+

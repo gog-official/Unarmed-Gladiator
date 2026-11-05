@@ -1,0 +1,27 @@
+{
+  "players_confusion_1": {
+    "speaker": "player",
+    "text": [
+      "I used to be a big fan of fights in the colosseum",
+      "I once bought a fully working gladiator armor set from my friends because it looked cool",
+      "One day, I was talking to my wife Livia. We just had our first child Maximus.",
+      "Then..",
+      "Two guys in a black armor forced me to go with them. Livia tried to stop them but they didn't",
+      "When I woke up, I was here.. In a dark room with nothing in sight."
+    ],
+    "next": "event_dialogue_1",
+  },
+  "event_dialogue_1": {
+    "speaker": "na",
+    "text": [
+      "(Knocking on the door)"
+    ],
+    "next": "lanista_1",
+  },
+  "lanista_1": {
+    "speaker": "lanista"
+    "text": [
+      "Ah, you woke up my friend"
+    ],,
+  }
+}

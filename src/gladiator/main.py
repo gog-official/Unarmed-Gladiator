@@ -572,9 +572,13 @@ while running:
                 mouse_x, mouse_y = event.pos
                 virtual_mouse_x = (mouse_x - screen_x) / scale
                 virtual_mouse_y = (mouse_y - screen_y) / scale
-                if respawn_button_rect and respawn_button_rect.collidepoint(virtual_mouse_x, virtual_mouse_y):
+                if respawn_button_rect and respawn_button_rect.collidepoint(
+                    virtual_mouse_x, virtual_mouse_y
+                ):
                     reset_game()
-                elif quit_button_rect and quit_button_rect.collidepoint(virtual_mouse_x, virtual_mouse_y):
+                elif quit_button_rect and quit_button_rect.collidepoint(
+                    virtual_mouse_x, virtual_mouse_y
+                ):
                     running = False
 
     virtual_surface.fill(SCREEN_COLOR)
